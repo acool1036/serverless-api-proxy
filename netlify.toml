@@ -3,6 +3,6 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "/hac/*"
-  to = " https://homeaccesscenterapi.vercel.app/api/:splat"
+  from = "/hacapi/*"
+  to = " https://homeaccesscenterapi.vercel.app/:splat"
   status = 200
